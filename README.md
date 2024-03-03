@@ -14,7 +14,7 @@ Build a LLM bot which looks at user sentiment to predict the conclusion.
 - Run the bot `streamlit run .\app.py`
 
 ## Who, When, Why?
-👨🏾‍💻 Author: Aviparna Biswas, Dheeraj Awalw
-📅 Version: 1.x
-📜 License: This project is licensed under the MIT License
+- 👨🏾‍💻 Author: Aviparna Biswas, Dheeraj Awalw
+- 📅 Version: 1.x
+- 📜 License: This project is licensed under the MIT License
 
